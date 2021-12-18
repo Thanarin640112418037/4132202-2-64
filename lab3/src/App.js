@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Narongsak Ramarueang
+          thanarin jeasungneon
         </a>
       </header>
     </div>
